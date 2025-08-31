@@ -17,16 +17,11 @@ A minimalist and modern Flutter application designed as the essential digital co
 ---
 ## Screenshots
 
-*(Here you will place your screenshots. I'll show you how after we upload this file.)*
-
-| Home Screen (Dark) | New Entry Screen | Details Screen |
-| :---: | :---: | :---: |
-|  |  | 
-
-[Image of Details Screen]
- |
-
----
+| **Home Screen (Dark)** | **New Entry Screen** |
+| :---: | :---: |
+| ![WhatsApp Image 2025-08-31 at 19 24 22_ad179923](https://github.com/user-attachments/assets/7e98f0b8-9d89-4142-baea-98dfc42dd4f4) | ![WhatsApp Image 2025-08-31 at 19 24 21_1fa72d99](https://github.com/user-attachments/assets/05c6f490-d5d1-4dfa-ba01-134c3a14b383) |
+| **Details Entry Screen** | **Log Detail Screen** |
+| ![WhatsApp Image 2025-08-31 at 19 24 21_ccb721f7](https://github.com/user-attachments/assets/7c89033c-e8ed-4a49-978b-91c34fccf6da) | ![WhatsApp Image 2025-08-31 at 19 24 22_eb1ebf79](https://github.com/user-attachments/assets/87844ba0-eb96-4f7e-b6d3-ca09c620a453) |
 ## Tech Stack
 
 -   **Framework:** Flutter
